@@ -1,0 +1,12 @@
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\bin\Debug\Simple Video Editing.exe
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\bin\Debug\Simple Video Editing.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\bin\Debug\NReco.VideoConverter.dll
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple_Video_Editing.Properties.Resources.resources
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple Video Editing.csproj.GenerateResource.Cache
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple Video Editing.exe
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple Video Editing.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple_Video_Editing.VideoBrowse.resources
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple_Video_Editing.MainForm.resources
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\obj\Debug\Simple Video Editing.csprojResolveAssemblyReference.cache
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\bin\Debug\Simple Video Editing.exe.config
+c:\users\mu12\documents\visual studio 2013\Projects\Simple Video Editing\Simple Video Editing\bin\Debug\NReco.VideoConverter.xml
